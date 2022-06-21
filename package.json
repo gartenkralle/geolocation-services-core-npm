@@ -1,6 +1,6 @@
 {
   "name": "@geolocation-services/core-package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Core funtionality for our geolocation services.",
   "main": "app.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "dependencies": {
     "node-fetch": "^3.2.6"
   },
-  "homepage": "https://www.geolocationservices.org/"
+  "homepage": "https://www.geolocationservices.org/",
+  "repository": {
+    "url": "https://github.com/gartenkralle/geolocation-services-core-npm"
+  }
 }
