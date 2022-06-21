@@ -1,0 +1,19 @@
+{
+  "name": "@geolocation-services/core-package",
+  "version": "1.0.4",
+  "description": "Core funtionality for our geolocation services.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geolocation"
+  ],
+  "author": "geolocationservices",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "homepage": "https://www.geolocationservices.org/"
+}
